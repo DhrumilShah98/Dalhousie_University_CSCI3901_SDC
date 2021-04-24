@@ -33,14 +33,54 @@ Extract summary information of the Northwind food distribution company from the 
 📄 [Report PDF](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Assignment_5/Assignment_5_Report.pdf)<br/>
 📁 [Code](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Assignment_5/Assignment5.zip)<br/>
 <br/>
-### Lab 1
-### Lab 2
-### Lab 3
-### Lab 4
-### Lab 5
-### Lab 6
-### Lab 7
-### Lab 8
-### Lab 9
+### Lab 1: Basic Problem Solving
+Write code to implement a Map data structure in Java without using any of the existing Java Map classes.<br/>
+📄 [Problem Statement PDF](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Lab_1/Lab_1.pdf)<br/>
+📄 [Report PDF](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Lab_1/Lab_1_Basic_Problem_Solving.pdf)<br/>
+📁 [Code](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Lab_1/Lab1Map.zip)<br/>
 <br/>
-### Final Project
+### Lab 2: Debugging
+Get familiar with debuggers and debug a few programs without using print statements.<br/>
+📄 [Problem Statement PDF](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Lab_2/Lab_2.pdf)<br/>
+📄 [Report PDF](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Lab_2/Lab_2_Debugging.pdf)<br/>
+📁 [Code](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Lab_2/Lab2Debugging.zip)<br/>
+<br/>
+### Lab 3: Testing
+Create test cases for a program that creates a leader board for a sports league.<br/>
+📄 [Problem Statement PDF](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Lab_3/Lab_3.pdf)<br/>
+📄 [Report PDF](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Lab_3/Lab_3_Testing.pdf)<br/>
+<br/>
+### Lab 4: Exceptions and Assertions
+Create two programs(Recursive fibonacci numbers and non-recursive binary search on array of integers) that demonstrates how to use exceptions and assertions.</br>
+📄 [Problem Statement PDF](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Lab_4/Lab_4.pdf)<br/>
+📄 [Report PDF](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Lab_4/Lab_4_Exceptions_And_Assertions.pdf)<br/>
+📁 [Code](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Lab_4/ExceptionsAndAssertions.zip)<br/>
+<br/>
+### Lab 5: Version Control
+Explore the version control system called Git and manage set of files for a project.<br/>
+📄 [Problem Statement PDF](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Lab_5/Lab_5.pdf)<br/>
+📄 [Report PDF](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Lab_5/Lab_5_Version_Control.pdf)<br/>
+📁 [Code](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Lab_5/HfxDonairExpress.zip)<br/>
+<br/>
+### Lab 6: Managing Software
+Explore managing a system of software with test suits via JUnit and Build management with Make.</br>
+📄 [Problem Statement PDF](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Lab_6/Lab_6.pdf)<br/>
+📄 [Report PDF](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Lab_6/Lab_6_Managing_Software.pdf)<br/>
+📁 [Code](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Lab_6/Makefile%20and%20UnitTests.zip)<br/>
+<br/>
+### Lab 7: Java - MySQL Connection
+Establish a connection between Java program and a MySQL database.<br/>
+📄 [Problem Statement PDF](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Lab_7/Lab_7.pdf)<br/>
+📄 [Report PDF](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Lab_7/Lab_7_Java_MySQL_Connection.pdf)<br/>
+📁 [Code](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Lab_7/Lab7JavaMySQLConnection.zip)<br/>
+<br/>
+### Lab 8: SQL Queries
+Practice making SQL queries.<br/>
+📄 [Problem Statement PDF](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Lab_8/Lab_8.pdf)<br/>
+📁 [Code](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Lab_8/solutions.sql)<br/>
+<br/>
+### Lab 9: Database Design
+Practice designing databases with key constraints.</br>
+📄 [Problem Statement PDF](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Lab_9/Lab_9.pdf)<br/>
+📄 [Report PDF](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Lab_9/Lab_9_Database_Design.pdf)<br/>
+<br/>
