@@ -2,6 +2,7 @@
 All assignments, labs and final project done in class CSCI3901(Software Development Concepts) of MACS at Dalhousie University.
 <br/>
 <br/>
+## Assignments
 ### Assignment 1
 Design a simplified version of a recommender system that recommend courses to take at the university based on what other students have taken.<br/>
 📄 [Problem Statement PDF](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Assignment_1/Assignment_1.pdf)<br/>
@@ -33,6 +34,7 @@ Extract summary information of the Northwind food distribution company from the 
 📄 [Report PDF](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Assignment_5/Assignment_5_Report.pdf)<br/>
 📁 [Code](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Assignment_5/Assignment5.zip)<br/>
 <br/>
+## Labs
 ### Lab 1: Basic Problem Solving
 Write code to implement a Map data structure in Java without using any of the existing Java Map classes.<br/>
 📄 [Problem Statement PDF](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Lab_1/Lab_1.pdf)<br/>
@@ -83,4 +85,11 @@ Practice making SQL queries.<br/>
 Practice designing databases with key constraints.</br>
 📄 [Problem Statement PDF](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Lab_9/Lab_9.pdf)<br/>
 📄 [Report PDF](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Lab_9/Lab_9_Database_Design.pdf)<br/>
+<br/>
+## Final Project: Covid Tracker
+Tools to help us manage the COVID-19 pandemic is contact tracing. When one person is diagnosed with COVID-19, the ability to notify other individuals who have been in contact with the person who is COVID-positive allows us to limit the spread of the disease faster. At the same time, the ability to use contact information to detect the frequency of large gatherings also helps us understand the community’s compliance with physical distancing advisories. For this project, you will replicate scaled-down functionality of the Canadian federal government’s application for contact tracing</br>
+📄 [Problem Statement PDF](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Final_Project/Final_project.pdf)<br/>
+📄 [Report PDF](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Final_Project/Final_Project_Report.pdf)<br/>
+📁 [Code](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Final_Project/FinalProject.zip)<br/>
+📁 [SQL File](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Final_Project/covid_tracker.sql)<br/>
 <br/>
