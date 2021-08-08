@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<period_summary>
+    <period>
+        <start_date>1997-01-07</start_date>
+        <end_date>1997-01-10</end_date>
+    </period>
+    <customer_list>
+        <customer>
+            <customer_name>Bottom-Dollar Markets</customer_name>
+            <address>
+                <street_address>23 Tsawassen Blvd.</street_address>
+                <city>Tsawassen</city>
+                <region>BC</region>
+                <postal_code>T2F 8M4</postal_code>
+                <country>Canada</country>
+            </address>
+            <num_orders>2</num_orders>
+            <order_value>2010.5000</order_value>
+        </customer>
+        <customer>
+            <customer_name>Folies gourmandes</customer_name>
+            <address>
+                <street_address>184, chausse de Tournai</street_address>
+                <city>Lille</city>
+                <region>null</region>
+                <postal_code>59000</postal_code>
+                <country>France</country>
+            </address>
+            <num_orders>1</num_orders>
+            <order_value>1622.4000</order_value>
+        </customer>
+        <customer>
+            <customer_name>Ocano Atlntico Ltda.</customer_name>
+            <address>
+                <street_address>Ing. Gustavo Moncada 8585 Piso 20-A</street_address>
+                <city>Buenos Aires</city>
+                <region>null</region>
+                <postal_code>1010</postal_code>
+                <country>Argentina</country>
+            </address>
+            <num_orders>1</num_orders>
+            <order_value>319.2000</order_value>
+        </customer>
+        <customer>
+            <customer_name>Ottilies Kseladen</customer_name>
+            <address>
+                <street_address>Mehrheimerstr. 369</street_address>
+                <city>Kln</city>
+                <region>null</region>
+                <postal_code>50739</postal_code>
+                <country>Germany</country>
+            </address>
+            <num_orders>1</num_orders>
+            <order_value>1194.0000</order_value>
+        </customer>
+        <customer>
+            <customer_name>Queen Cozinha</customer_name>
+            <address>
+                <street_address>Alameda dos Canrios, 891</street_address>
+                <city>Sao Paulo</city>
+                <region>SP</region>
+                <postal_code>05487-020</postal_code>
+                <country>Brazil</country>
+            </address>
+            <num_orders>1</num_orders>
+            <order_value>2018.2000</order_value>
+        </customer>
+    </customer_list>
+</period_summary>

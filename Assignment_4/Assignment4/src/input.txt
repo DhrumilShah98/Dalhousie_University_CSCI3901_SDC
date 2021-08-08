@@ -1,0 +1,19 @@
+5
+abccd
+abcef
+ghhei
+jhkll
+jjkmm
+a 4 +
+b 2 /
+c 75 *
+d 2 =
+e 2 *
+f 4 =
+g 5 =
+h 60 *
+i 1 =
+j 8 *
+k 1 -
+l 1 -
+m 8 +
