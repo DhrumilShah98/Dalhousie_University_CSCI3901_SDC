@@ -1,6 +1,6 @@
 # Dalhousie University | CSCI3901 | SDC (Software Development Concepts)
 All assignments, labs and the final project done in class CSCI3901(Software Development Concepts) of MACS at the Dalhousie University.
-Final Grade Received - 99.15% / 100%
+Final Grade Received - A+
 <br/>
 <br/>
 ## Assignments
