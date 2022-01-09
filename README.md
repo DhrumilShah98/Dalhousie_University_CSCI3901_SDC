@@ -80,7 +80,7 @@ Create two programs(Recursive fibonacci numbers and non-recursive binary search 
 ### Lab 5: Version Control
 Explore the version control system called Git and manage set of files for a project.<br/>
 📄 [Report PDF](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Lab_5/Lab_5_Version_Control.pdf)<br/>
-📁 [Code](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Lab_5/HfxDonairExpress)<br/>
+📁 [Code](https://github.com/DhrumilShah98/Dalhousie_University_CSCI3901_SDC/blob/main/Lab_5/HfxDonair)<br/>
 🏫 Grade: 100%
 <br/>
 <br/>
